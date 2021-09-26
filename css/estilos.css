@@ -1,0 +1,99 @@
+*{
+    font-style: normal;
+    font: sans-serif;
+    margin: 0%;
+}
+
+body{   
+    background-image: url(../img/fondo/roma.jpg);  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: 1;
+}
+
+#redes{
+
+    background: url(../img/fondo/roma-desenfoque.jpg);
+    background-size: cover;
+    filter: blur();
+    background-attachment: fixed;
+    padding: 10px;
+    margin: 100px auto;
+    width: 60%;
+    text-align: center;
+    font-size: 15px;
+}
+
+#contenedor{
+    background: url(../img/fondo/roma-desenfoque.jpg);
+    background-size: cover;
+    filter: blur();
+    background-attachment: fixed;
+    padding: 20px;
+    margin: 100px auto;
+    width: 70%;
+}
+.pContracto{
+    text-align: center;
+}
+
+h1{
+    font-style: italic;
+    font-size: 40px;
+    margin: 10px;
+    text-align: center;
+}
+#roma{
+    font-size: 55px;
+    text-align: center;
+}
+p{
+    font-style: oblique;
+    font-size: 30px;
+    margin: 3%;
+}
+li{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#redesSociales{
+    font-size: 30px;
+}
+#instagramIcono{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50px;
+}
+#facebookIcono{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50px;
+}
+#Mapa{
+    text-align: center;
+    margin: 10px;
+}
+footer{
+    height : 40px; 
+    background: #7c5f81;
+    
+}
+footer p{
+    margin: 5%;
+    font-size: 25px;
+    line-height: 40px;
+    margin-left: 25%;
+    color: #252525
+
+}
+
+#gitIcon{
+    margin-top: 5px;
+    margin-right: 25%;
+    float: right;
+    cursor: pointer;
+}
