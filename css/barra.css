@@ -7,6 +7,7 @@ header{
     padding: 0 20px;
     color: beige;
 }
+
 .menu-toggle{
     display: none;
     margin-left: auto;
@@ -14,6 +15,7 @@ header{
     line-height: 60px;
     cursor: pointer;
 }
+
 .logo a{
     color:beige;
     text-decoration: none;
@@ -25,14 +27,14 @@ header{
 
 #menu{
     margin-left: auto;
-
 }
+
 #menu ul li{
     display: inline-block;
     font-size: 20px;
     line-height: 60px;
-
 }
+
 #menu ul li a{
     display: inline-block;
     position: relative;
@@ -42,6 +44,7 @@ header{
     text-transform: initial;
     transition: .2s;
 }
+
 #menu ul li a:hover{
     color: #8c6a91;
 }
