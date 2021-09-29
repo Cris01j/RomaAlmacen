@@ -25,11 +25,13 @@ header{
 
 #menu{
     margin-left: auto;
+
 }
 #menu ul li{
     display: inline-block;
     font-size: 20px;
     line-height: 60px;
+
 }
 #menu ul li a{
     display: inline-block;
@@ -37,7 +39,6 @@ header{
     color: beige;
     text-decoration: none;
     line-height: 60px;
-    padding: 0 8px;
     text-transform: initial;
     transition: .2s;
 }
