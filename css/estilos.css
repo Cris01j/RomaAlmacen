@@ -12,6 +12,9 @@ body{
     z-index: 1;
 }
 
+.menuGrand{
+    margin-right: 30px;
+}
 #redes{
     background: url(../img/fondo/roma-desenfoque.jpg);
     background-size: cover;
@@ -61,7 +64,6 @@ p{
 li{
     font-weight: bold;
     font-size: 25px;
-    margin-right: 30px;
 }
 
 #instagramIcono{
