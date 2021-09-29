@@ -86,8 +86,8 @@ footer{
 footer p{
     font-size: 25px;
     line-height: 40px;
-    color: #252525;
     text-align: center;
+    color: #252525
 }
 
 #gitIcon{
